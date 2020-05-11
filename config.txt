@@ -1,0 +1,24 @@
+
+database: foodshala
+username:root
+hostname:localhost
+password:stark
+
+
+
+
+login_user1 is vendor
+
+username: kartik
+password: 1234
+
+login_user2 is customer
+
+username: kannav	
+password: 1234
+
+
+made by kannav sharma
+
+
+"mailto:kannav4199@gmail.com"
